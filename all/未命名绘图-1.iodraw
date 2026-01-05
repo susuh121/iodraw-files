@@ -316,10 +316,7 @@
         </mxCell>
         <mxCell id="7f6rrI2Etff3G1ktWsCC-20" value="移动1200mm" style="curved=1;startArrow=none;endArrow=block;exitX=0.12;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="7f6rrI2Etff3G1ktWsCC-7" target="7f6rrI2Etff3G1ktWsCC-8">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="580" y="4030" />
-              <mxPoint x="580" y="4020" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7f6rrI2Etff3G1ktWsCC-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.34;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="7f6rrI2Etff3G1ktWsCC-8" target="7f6rrI2Etff3G1ktWsCC-9">
