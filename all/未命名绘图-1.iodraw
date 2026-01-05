@@ -270,10 +270,10 @@
           <mxGeometry x="603" y="3800" width="129" height="129" as="geometry" />
         </mxCell>
         <mxCell id="7f6rrI2Etff3G1ktWsCC-8" value="执行卸料动作(夹爪松开)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="453" y="4060" width="232" height="49" as="geometry" />
+          <mxGeometry x="468" y="3980" width="232" height="49" as="geometry" />
         </mxCell>
         <mxCell id="7f6rrI2Etff3G1ktWsCC-9" value="主移动返回原点" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="374" y="4274" width="172" height="49" as="geometry" />
+          <mxGeometry x="360" y="4270" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="7f6rrI2Etff3G1ktWsCC-10" value="循环结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="160" y="4395" width="124" height="49" as="geometry" />
@@ -322,7 +322,7 @@
         <mxCell id="7f6rrI2Etff3G1ktWsCC-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.34;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="7f6rrI2Etff3G1ktWsCC-8" target="7f6rrI2Etff3G1ktWsCC-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="460" y="4238" />
+              <mxPoint x="520" y="4100" />
             </Array>
           </mxGeometry>
         </mxCell>
