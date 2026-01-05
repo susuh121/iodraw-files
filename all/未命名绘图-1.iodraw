@@ -264,7 +264,7 @@
           <mxGeometry x="700" y="3500" width="145" height="145" as="geometry" />
         </mxCell>
         <mxCell id="7f6rrI2Etff3G1ktWsCC-6" value="主移动至目标位置(电机57HS22正转1200mm)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="548" y="3813" width="253" height="66" as="geometry" />
+          <mxGeometry x="571" y="3690" width="253" height="66" as="geometry" />
         </mxCell>
         <mxCell id="7f6rrI2Etff3G1ktWsCC-7" value="主移动到位" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="561" y="3952" width="129" height="129" as="geometry" />
@@ -306,9 +306,7 @@
         </mxCell>
         <mxCell id="7f6rrI2Etff3G1ktWsCC-18" value="延时或位置估算" style="curved=1;startArrow=none;endArrow=block;exitX=0.13;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="7f6rrI2Etff3G1ktWsCC-5" target="7f6rrI2Etff3G1ktWsCC-6">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="675" y="3777" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7f6rrI2Etff3G1ktWsCC-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.41;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="7f6rrI2Etff3G1ktWsCC-6" target="7f6rrI2Etff3G1ktWsCC-7">
