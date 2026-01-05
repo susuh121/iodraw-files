@@ -374,23 +374,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7f6rrI2Etff3G1ktWsCC-28" value="检测到急停信号" style="curved=1;startArrow=none;endArrow=block;exitX=0.82;exitY=1;entryX=0.24;entryY=0;rounded=0;" edge="1" parent="1" source="7f6rrI2Etff3G1ktWsCC-6" target="7f6rrI2Etff3G1ktWsCC-11">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.3579" y="-12" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="842" y="3916" />
               <mxPoint x="842" y="4359" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7f6rrI2Etff3G1ktWsCC-29" value="检测到急停信号" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.89;entryX=0;entryY=0.05;rounded=0;" edge="1" parent="1" source="7f6rrI2Etff3G1ktWsCC-7" target="7f6rrI2Etff3G1ktWsCC-11">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.4875" y="3" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="754" y="4117" />
               <mxPoint x="754" y="4359" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7f6rrI2Etff3G1ktWsCC-30" value="检测到急停信号" style="curved=1;startArrow=none;endArrow=block;exitX=0.65;exitY=0.99;entryX=0;entryY=0.23;rounded=0;" edge="1" parent="1" source="7f6rrI2Etff3G1ktWsCC-8" target="7f6rrI2Etff3G1ktWsCC-11">
-          <mxGeometry x="-0.0739" y="1" relative="1" as="geometry">
+          <mxGeometry x="-0.4698" y="-5" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="639" y="4238" />
               <mxPoint x="639" y="4359" />
