@@ -261,7 +261,7 @@
           <mxGeometry x="700" y="3420" width="251" height="49" as="geometry" />
         </mxCell>
         <mxCell id="7f6rrI2Etff3G1ktWsCC-5" value="夹爪闭合到位" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="683" y="3596" width="145" height="145" as="geometry" />
+          <mxGeometry x="700" y="3500" width="145" height="145" as="geometry" />
         </mxCell>
         <mxCell id="7f6rrI2Etff3G1ktWsCC-6" value="主移动至目标位置(电机57HS22正转1200mm)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="548" y="3813" width="253" height="66" as="geometry" />
@@ -301,9 +301,7 @@
         </mxCell>
         <mxCell id="7f6rrI2Etff3G1ktWsCC-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.24;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="7f6rrI2Etff3G1ktWsCC-3" target="7f6rrI2Etff3G1ktWsCC-4">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="840" y="3410" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7f6rrI2Etff3G1ktWsCC-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.39;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="7f6rrI2Etff3G1ktWsCC-4" target="7f6rrI2Etff3G1ktWsCC-5">
