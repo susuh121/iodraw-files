@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="0JagfAxWSXTJKlA_miw4">
-    <mxGraphModel dx="1857" dy="2241" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3713" dy="3312" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -29,10 +29,10 @@
           <mxGeometry x="295" y="2665" width="142" height="49" as="geometry" />
         </mxCell>
         <mxCell id="sXxJWweQU6NEHLLHKwr9-9" value="等待急停按钮复位" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="278" y="2764" width="177" height="177" as="geometry" />
+          <mxGeometry x="51" y="2537" width="177" height="177" as="geometry" />
         </mxCell>
         <mxCell id="sXxJWweQU6NEHLLHKwr9-10" value="关闭报警指示灯" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
-          <mxGeometry x="498" y="3013" width="142" height="49" as="geometry" />
+          <mxGeometry x="514" y="2740" width="142" height="49" as="geometry" />
         </mxCell>
         <mxCell id="sXxJWweQU6NEHLLHKwr9-11" value="点亮运行指示灯" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
           <mxGeometry x="285" y="870" width="142" height="49" as="geometry" />
@@ -378,7 +378,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7f6rrI2Etff3G1ktWsCC-28" value="检测到急停信号" style="curved=1;startArrow=none;endArrow=block;exitX=0.82;exitY=1;entryX=0.24;entryY=0;rounded=0;" edge="1" parent="1" source="7f6rrI2Etff3G1ktWsCC-6" target="7f6rrI2Etff3G1ktWsCC-11">
-          <mxGeometry x="-0.3579" y="498" relative="1" as="geometry">
+          <mxGeometry x="-0.3579" y="-12" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="842" y="3916" />
               <mxPoint x="842" y="4359" />
