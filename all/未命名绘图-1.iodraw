@@ -378,7 +378,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7f6rrI2Etff3G1ktWsCC-28" value="检测到急停信号" style="curved=1;startArrow=none;endArrow=block;exitX=0.82;exitY=1;entryX=0.24;entryY=0;rounded=0;" edge="1" parent="1" source="7f6rrI2Etff3G1ktWsCC-6" target="7f6rrI2Etff3G1ktWsCC-11">
-          <mxGeometry x="-0.3579" y="-12" relative="1" as="geometry">
+          <mxGeometry x="-0.3579" y="498" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="842" y="3916" />
               <mxPoint x="842" y="4359" />
