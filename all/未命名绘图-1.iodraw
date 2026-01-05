@@ -267,7 +267,7 @@
           <mxGeometry x="571" y="3690" width="253" height="66" as="geometry" />
         </mxCell>
         <mxCell id="7f6rrI2Etff3G1ktWsCC-7" value="主移动到位" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="561" y="3952" width="129" height="129" as="geometry" />
+          <mxGeometry x="560" y="3930" width="129" height="129" as="geometry" />
         </mxCell>
         <mxCell id="7f6rrI2Etff3G1ktWsCC-8" value="执行卸料动作(夹爪松开)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="434" y="4153" width="232" height="49" as="geometry" />
@@ -311,9 +311,7 @@
         </mxCell>
         <mxCell id="7f6rrI2Etff3G1ktWsCC-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.41;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="7f6rrI2Etff3G1ktWsCC-6" target="7f6rrI2Etff3G1ktWsCC-7">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="625" y="3916" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7f6rrI2Etff3G1ktWsCC-20" value="移动1200mm" style="curved=1;startArrow=none;endArrow=block;exitX=0.12;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="7f6rrI2Etff3G1ktWsCC-7" target="7f6rrI2Etff3G1ktWsCC-8">
