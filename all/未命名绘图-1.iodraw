@@ -304,15 +304,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7f6rrI2Etff3G1ktWsCC-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.39;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="7f6rrI2Etff3G1ktWsCC-4" target="7f6rrI2Etff3G1ktWsCC-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="756" y="3571" />
-              <mxPoint x="790" y="3469" />
-              <mxPoint x="780" y="3490" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="7f6rrI2Etff3G1ktWsCC-18" value="延时或位置估算" style="curved=1;startArrow=none;endArrow=block;exitX=0.13;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="7f6rrI2Etff3G1ktWsCC-5" target="7f6rrI2Etff3G1ktWsCC-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -437,6 +428,18 @@
               <mxPoint x="319" y="4585" />
               <mxPoint x="319" y="3154" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7f6rrI2Etff3G1ktWsCC-36" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="780" y="3630" as="sourcePoint" />
+            <mxPoint x="830" y="3580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7f6rrI2Etff3G1ktWsCC-37" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="780" y="3630" as="sourcePoint" />
+            <mxPoint x="830" y="3580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
